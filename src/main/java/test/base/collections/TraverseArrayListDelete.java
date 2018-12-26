@@ -1,7 +1,6 @@
-package test.base;
+package test.base.collections;
 
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.Iterator;
 import java.util.List;
 

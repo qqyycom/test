@@ -27,6 +27,8 @@ public class AnnotationDemo {
         }
         System.out.println(ad.string);
     }
+
+
 }
 
 
